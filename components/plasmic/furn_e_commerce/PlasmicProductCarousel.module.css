@@ -1,0 +1,182 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  transition-property: all;
+  transition-duration: 1s;
+  min-width: 0;
+}
+.freeBox__c0M7S {
+  display: flex;
+  width: 100%;
+  height: 600px;
+  justify-content: space-between;
+  overflow: hidden;
+  min-width: 0;
+  flex-shrink: 0;
+}
+.freeBox___4Hu3V {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  width: 60%;
+  padding: 32px 24px;
+}
+.freeBox___4Hu3V > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.freeBox___4Hu3V > :global(.__wab_flex-container) > *,
+.freeBox___4Hu3V > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___4Hu3V > :global(.__wab_flex-container) > picture > img,
+.freeBox___4Hu3V
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 12px;
+}
+.text__bQIp {
+  position: relative;
+  font-size: 28px;
+  color: rgb(153, 141, 128) /* plasmic-token: cdb3AybvRDSU */;
+}
+.text__wZonB {
+  position: relative;
+  color: rgb(97, 96, 96) /* plasmic-token: mDz_oloLyWUz */;
+  font-size: 40px;
+}
+.text__t32U0 {
+  position: relative;
+  color: rgb(160, 158, 156) /* plasmic-token: xv6OZYvRYVvD */;
+}
+.freeBox__p4AMw {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.freeBox__z2VdF {
+  display: flex;
+  position: relative;
+  height: 1px;
+  flex-direction: row;
+  width: 32px;
+  flex-shrink: 0;
+  border: 1px solid rgb(97, 96, 96) /* plasmic-token: mDz_oloLyWUz */;
+}
+.text__r8ATt {
+  position: relative;
+  color: rgb(97, 96, 96) /* plasmic-token: mDz_oloLyWUz */;
+}
+.text__eQzwd {
+  position: relative;
+  color: rgb(188, 183, 178) /* plasmic-token: yxZPR0eZlcl4 */;
+  text-decoration-line: line-through;
+}
+.freeBox__yvCi {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  margin-top: calc(24px + 12px) !important;
+}
+.freeBox__yvCi > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__yvCi > :global(.__wab_flex-container) > *,
+.freeBox__yvCi > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__yvCi > :global(.__wab_flex-container) > picture > img,
+.freeBox__yvCi
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.linkButton__bq8G:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkButton__w00Fr:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.freeBox__j00Tx {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 40%;
+  height: 100%;
+  min-height: 0;
+}
+.img {
+  position: relative;
+  object-fit: contain;
+  width: 100%;
+  min-width: 0;
+}
+.img > picture > img {
+  object-fit: contain;
+}
+.img > .__wab_img-spacer > img {
+  object-fit: contain;
+}
+.freeBox___5Vboi {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox___5Vboi > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.freeBox___5Vboi > :global(.__wab_flex-container) > *,
+.freeBox___5Vboi > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___5Vboi > :global(.__wab_flex-container) > picture > img,
+.freeBox___5Vboi
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.svg__robyh {
+  position: relative;
+  object-fit: cover;
+  color: rgb(233, 156, 46) /* plasmic-token: sdzhejchQ14w */;
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.svg___4Ja9S {
+  position: relative;
+  object-fit: cover;
+  color: rgb(233, 156, 46) /* plasmic-token: sdzhejchQ14w */;
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.svg__cOY7 {
+  position: relative;
+  object-fit: cover;
+  color: rgb(233, 156, 46) /* plasmic-token: sdzhejchQ14w */;
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
